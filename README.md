@@ -25,7 +25,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 719 - Haskell
   * 72X - Edge Cases
     - 720 - Unpossible
-    - 721 - Known Unknowns
+     - 721 - Known Unknowns
     - 722 - Unknown Unknowns
     - 723 - Tricky
     - 724 - This line should be unreachable
@@ -48,6 +48,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
   * 74X - Meme Driven
     - 740 - Computer says no
     - 741 - Compiling
+
     - 742 - A kitten dies
     - 743 - I thought I knew regular expressions
     - 744 - Y U NO write integration tests?
@@ -73,6 +74,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 765 - Railscamp
     - 766 - Sober
     - 767 - Drunk
+      - https://media.giphy.com/media/vGu7B3tumu0iQ/giphy.gif submitted by https://github.com/kennyburns1967
     - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
     - 769 - Questionable Maturity Level
   * 77X - Predictable Problems
