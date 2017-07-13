@@ -96,6 +96,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 781 - Operations
     - 782 - QA
     - 783 - It was a customer request, honestly
+      - https://media.giphy.com/media/g99MDPavNBLC8/giphy.gif submitted by https://twitter.com/jellyfur
     - 784 - Management, obviously
     - 785 - TPS Cover Sheet not attached
     - 786 - Try it now
