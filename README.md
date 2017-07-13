@@ -68,6 +68,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 755 - Not enough semi-colons
     - 756 - Insufficiently polite
     - 757 - Excessively polite
+      - http://media.giphy.com/media/EC8Ojwot6UXW8/giphy.gif
     - 759 - Unexpected T_PAAMAYIM_NEKUDOTAYIM
   * 76X - Substance-Affected Developer
     - 761 - Hungover
