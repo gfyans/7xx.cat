@@ -49,8 +49,8 @@ To contribute add a link to your gif, followed by your name and a link to your p
   * 74X - Meme Driven
     - 740 - Computer says no
     - 741 - Compiling
-
     - 742 - A kitten dies
+      - https://media.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif submitted by https://twitter.com/jellyfur
     - 743 - I thought I knew regular expressions
     - 744 - Y U NO write integration tests?
     - 745 - I don't always test my code, but when I do I do it in production
@@ -69,6 +69,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
   * 76X - Substance-Affected Developer
     - 761 - Hungover
     - 762 - Stoned
+      - https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif submitted by https://twitter.com/jellyfur
     - 763 - Under-Caffeinated
     - 764 - Over-Caffeinated
       - https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif submitted by https://github.com/davidmcg1985
