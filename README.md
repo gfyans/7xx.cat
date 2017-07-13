@@ -8,6 +8,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
 
   * 70X - Inexcusable
     - 701 - Meh
+      - https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif
     - 702 - Emacs
     - 703 - Explosion
       - https://media0.giphy.com/media/xT8qBt2943MLRO8zuM/200.webp#1-grid1
@@ -73,6 +74,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 762 - Stoned
       - https://media.giphy.com/media/11c7UUfN4eoHF6/giphy.gif submitted by https://twitter.com/jellyfur
     - 763 - Under-Caffeinated
+      - https://media.giphy.com/media/vGIZQcbUNmu5O/giphy.gif
     - 764 - Over-Caffeinated
       - https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif submitted by https://github.com/davidmcg1985
     - 765 - Railscamp
