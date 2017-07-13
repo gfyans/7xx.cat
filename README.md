@@ -16,6 +16,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 705 - I wrote the code and missed the necessary validation by an oversight (see 795)
     - 706 - Delete Your Account
     - 707 - Can't quit vi
+      - https://media.giphy.com/media/kYxUFxs2uY3vO/giphy.gif
   * 71X - Novelty Implementations
     - 710 - PHP
     - 711 - Convenience Store
@@ -25,8 +26,9 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 719 - Haskell
   * 72X - Edge Cases
     - 720 - Unpossible
-     - 721 - Known Unknowns
+    - 721 - Known Unknowns
     - 722 - Unknown Unknowns
+      - https://giphy.com/gifs/cat-cats-shurly-l2JJDdD7cv4xdGGis submitted by https://twitter.com/jellyfur
     - 723 - Tricky
     - 724 - This line should be unreachable
     - 725 - It works on my machine
