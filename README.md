@@ -78,6 +78,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
       - https://media.giphy.com/media/vGu7B3tumu0iQ/giphy.gif submitted by https://github.com/kennyburns1967
     - 768 - Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week
     - 769 - Questionable Maturity Level
+      - https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif submitted by https://twitter.com/jellyfur
   * 77X - Predictable Problems
     - 771 - Cached for too long
     - 772 - Not cached long enough
