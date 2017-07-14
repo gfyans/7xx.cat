@@ -1,5 +1,7 @@
 # 7xx.cat
 
+I love the new 7xx status codes (https://github.com/joho/7XX-rfc), that I thought it would be fun to find cat gifs to describe each one. I'm compiling the list just now, but once it's there or thereabouts, I'll build a wee site and host it at 7xx.cat.
+
 ## Contribute
 
 To contribute add a link to your gif, followed by your name and a link to your profile (Github, Twitter, whatever)
